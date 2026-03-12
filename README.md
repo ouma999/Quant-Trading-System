@@ -13,3 +13,5 @@
 Metrics:Sharpe ratio,max drawdown,win rate and annual return
    ↓
 7.Dashboard- streamlit/plotly
+
+<img width="511" height="336" alt="image" src="https://github.com/user-attachments/assets/babd06f5-4846-4fb6-8c29-0c81bb64298d" />
