@@ -1,4 +1,4 @@
-# Stock-prediction-Architecture
+# Quant System Stock Market Prediction
 A hybrid ensemble machine learning system that trains on historical CSV data and generates live stock predictions using real-time Yahoo Finance data.
 Project pipleine 
 Your CSV Files(API)                   Yahoo Finance
