@@ -1,6 +1,9 @@
-# Quant System Stock Market Prediction
+#Quant System Stock Market Prediction
 A hybrid ensemble machine learning system that trains on historical CSV data and generates live stock predictions using real-time Yahoo Finance data.
+
+
 Project pipleine 
+
 Your CSV Files(API)                   Yahoo Finance
       |                                 |
       | (years of history)              | (latest 300 days)
@@ -13,6 +16,8 @@ Train Ensemble Model    -->    Build Live Features
                                         |
                                         v
                                Summary Table + Charts
+
+                               
 1.APIs
    ↓
 2.Data Pipeline
